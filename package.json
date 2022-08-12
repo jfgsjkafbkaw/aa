@@ -31,7 +31,7 @@
     "color": "^4.2.3",
     "core-js": "^3.6.5",
     "crypto-js": "^4.0.0",
-    "dayjs": "^1.8.36",
+    "dayjs": "^1.11.5",
     "dexie": "^3.0.3",
     "discord-rich-presence": "^0.0.8",
     "electron": "^13.6.7",
